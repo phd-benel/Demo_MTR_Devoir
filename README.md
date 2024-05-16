@@ -1,2 +1,7 @@
-# Demo_MTR_Devoir
-Ce dépôt  a pour objectif de fournir un exemple simple de la façon dont les élèves peuvent  présenter leurs propres projets sur GitHub. 
+# Conception et Développement d'un Système Temps Réel et Multi-tâche : Gestion Automatisée de Téléviseur dans une Maison Intelligente (Via un ESP32 et FreeRTOS).
+
+Résumé du projet ( Abstract) : ....
+
+Code et Simulation du projet (Lien Wokwi) : https://wokwi.com/projects/398030487217186817
+
+Membre du Groupe : ....
