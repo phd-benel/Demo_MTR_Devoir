@@ -1,4 +1,4 @@
-# Conception et Développement d'un Système Temps Réel et Multi-tâche : Gestion Automatisée de Téléviseur dans une Maison Intelligente (Via un ESP32 et FreeRTOS).
+# Conception et Développement d'un Système Temps Réel et Multi-tâche : Gestion Automatisée de Téléviseur dans une Maison Intelligente (Via un ESP32 et le OS FreeRTOS).
 
 Résumé du projet ( Abstract) : ....
 
