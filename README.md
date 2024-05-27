@@ -10,7 +10,7 @@ Membre du Groupe : ....
 
 ----------------------------------------- Rappel des consignes ------------------------------------------------
 
-Le but de ce projet est de concevoir et développer un système temps réel et multitâche utilisant une carte ESP32 avec le système d'exploitation FreeRTOS. L'objectif du système est de contrôler automatiquement les écrans de la maison en fonction de contraintes temporelles et logiques spécifiques :
+Le but de ce projet est de concevoir et développer un système temps réel et multitâche utilisant une carte ESP32 avec le système d'exploitation FreeRTOS. L'objectif du système est de contrôler automatiquement les écrans d'une maison intelligente en fonction de certaines contraintes temporelles et logiques spécifiques qui sont définies ainsi :
 
 1. Pendant la journée, seulement deux télévisions parmi trois peuvent être allumées simultanément. Une même télévision peut être allumée plusieurs fois pendant la journée.
 2. Si une télévision est allumée, elle doit s'éteindre automatiquement après un délai maximum de deux heures pour économiser de l'énergie.
